@@ -298,21 +298,6 @@ Detailed experimental observations, model evaluation, confusion matrix analysis,
 ---
 
 
-## 13. Contributors
-
-This project was collaboratively developed by:
-
-### 1. Mirza Abdul Rehman
-- GitHub: [@mirzaabdulrehmanieee-xyz](https://github.com/mirzaabdulrehmanieee-xyz)
-
-### 2. Muhammad Wasiq Aslam
-- GitHub: [@mwa-1214](https://github.com/mwa-1214)
-
-Both contributors collaborated on the design, implementation, experimentation, evaluation, and documentation of the ECG heartbeat classification project.
-
-
----
-
 ## 14. Acknowledgment
 
 The project uses the MIT-BIH heartbeat dataset for ECG signal classification research and experimentation.
