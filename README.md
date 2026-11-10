@@ -298,7 +298,7 @@ Detailed experimental observations, model evaluation, confusion matrix analysis,
 ---
 
 
-## 14. Acknowledgment
+## 13. Acknowledgment
 
 The project uses the MIT-BIH heartbeat dataset for ECG signal classification research and experimentation.
 
